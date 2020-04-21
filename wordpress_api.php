@@ -19,7 +19,7 @@ switch ($action) {
         /**
          * Get all posts
          */
-        $wpApi->getPost($action);
+        $wpApi->getPosts($action);
 
         break;
 

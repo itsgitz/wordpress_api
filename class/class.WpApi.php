@@ -59,6 +59,13 @@ class Api
         return $result;
     }
     
+    /**
+     * createPost
+     * 
+     * Posting content on WP
+     * 
+     * @param string action
+     */
     public function createPost($action)
     {
         $title = readline("Title: ");
@@ -70,7 +77,14 @@ class Api
         print_r($this->apiRequest($action, $postfield));
     }
     
-    public function getPost($action)
+    /**
+     * getPosts
+     * 
+     * Get all posts from WP
+     * 
+     * @param string action
+     */
+    public function getPosts($action)
     {
         print_r($this->apiRequest($action));
     }
