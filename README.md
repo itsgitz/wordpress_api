@@ -3,8 +3,8 @@
 Example PHP script for creating post or get post (as array).
 
 # Requirement
-`PHP 7`
-`Linux Terminal or Windows CMD`
+1. `PHP 7`
+2. `Linux Terminal or Windows CMD`
 
 # Usage
 
