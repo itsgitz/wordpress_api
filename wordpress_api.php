@@ -1,6 +1,8 @@
 <?php
 
 /**
+ * @author: Anggit M Ginanjar
+ * @email: anggit.ginanjar@outlook.com
  * @link: https://developer.wordpress.org/rest-api/reference/posts/
  * @link: https://rudrastyh.com/wordpress/rest-api-create-delete-posts.html
  */
