@@ -2,6 +2,10 @@
 
 Example PHP script for creating post or get post (as array).
 
+# Requirement
+`PHP 7`
+`Linux Terminal or Windows CMD`
+
 # Usage
 
 ```shell
